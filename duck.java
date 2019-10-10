@@ -4,4 +4,5 @@ public class duck{
 		system.out.println("A duck can fly");
 	}
 
+
 }
